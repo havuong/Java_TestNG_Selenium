@@ -1,4 +1,4 @@
-package javatutorials.data_types;
+package javatutorials.datatypes;
 
 import org.testng.annotations.Test;
 
